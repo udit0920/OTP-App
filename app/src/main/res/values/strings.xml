@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMS App</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="otp_message">Hi. Your OTP is: %1$d</string>
+    <string name="json_contact_list">[{\"firstName\": \"Udit\",\"lastName\": \"Setia\",\"phoneNo\": \"9971792703\"}, {\"firstName\": \"Krishna\",\"lastName\": \"Kumar\",\"phoneNo\": \"9971792703\"}, {\"firstName\": \"Ankit\",\"lastName\": \"Mehta\",\"phoneNo\": \"9971792703\"}, {\"firstName\": \"Aashrai\",\"lastName\": \"Robaroo\",\"phoneNo\": \"9971792703\"},{\"firstName\": \"Suraj\",\"lastName\": \"Dev\",\"phoneNo\": \"9971792703\"},{\"firstName\": \"Shahid\",\"lastName\": \"Roy\",\"phoneNo\": \"9971792703\"}]</string>
+</resources>
